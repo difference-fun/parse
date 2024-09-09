@@ -1,0 +1,17 @@
+{
+    "name" : "difference_fun/parse",
+    "description" : "difference_fun/parse see https://difference.fun for detailed usage",
+    "type" : "package",
+    "keywords" : ["node", "difference", "fun", "library", "framework", "parse", "difference.fun"],
+    "homepage": "https://difference.fun",
+    "require" : {
+        "difference_fun/framework": "*",
+        "ext-zlib": "*"
+    },
+    "minimum-stability": "dev",
+    "license" : "MIT",
+    "authors" : [{
+        "name" : "Remco van der Velde",
+        "email" : "development@universeorange.com"
+    }]
+}
